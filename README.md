@@ -7,10 +7,10 @@ This project presents the design of a mechanical system for loading semiconducto
 - Precise wafer alignment mechanism
 - Controlled insertion system
 - Full CAD assembly design
-- Automated and included storage system for wafermagazines 
+- Automated and included storage system for wafermagazines
+- optimized for cleanroom applications and integration
 
 ## Tools Used
-- Autodesk Inventor 3D
-- (optional) Python for automation logic
+- Autodesk Inventor 3D 
+- Microsoft (Word, Excel and PowerPoint)
 
-## Images
