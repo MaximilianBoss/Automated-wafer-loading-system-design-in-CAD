@@ -7,6 +7,7 @@ This project presents the design of a mechanical system for loading semiconducto
 - Precise wafer alignment mechanism
 - Controlled insertion system
 - Full CAD assembly design
+- Automated and included storage system for wafers
 
 ## Tools Used
 - Autodesk Inventor 3D
